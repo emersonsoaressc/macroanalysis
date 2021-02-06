@@ -1,6 +1,6 @@
 import environ
 
-from macro_analyses.settings.base import *
+from macro_analysis.settings.base import *
 
 env = environ.Env()
 
