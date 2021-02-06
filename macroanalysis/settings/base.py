@@ -68,7 +68,7 @@ TEMPLATES = [
     },
 ]
 
-WSGI_APPLICATION = 'macroanalyses.wsgi.application'
+WSGI_APPLICATION = 'macroanalysis.wsgi.application'
 
 
 # Database
